@@ -1,0 +1,15 @@
+{
+  "name": "bundledkrall_npmpackage",
+  "version": "1.0.0",
+  "description": "THis is a test for bundling packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Krall",
+  "license": "ISC",
+  "dependencies": {
+    "krall-npmtest": "^1.0.1"
+  }
+}
